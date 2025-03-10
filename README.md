@@ -4,10 +4,6 @@
 目前代码在迅速迭代ing
 最终会集成网页视频、数字人等功能！
 
-有兴趣请联系：
-![Freeipcc微信二维码-WechatIMG484](https://github.com/user-attachments/assets/74afadc8-9fc9-468c-9f58-c1cb95f15f7b)
-
-
 ## 我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
 # 附：团队的开源呼叫中心系统FreeAICC（AI Call Center）的愿景与基础功能阐述
 愿景：

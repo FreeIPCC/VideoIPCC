@@ -21,6 +21,11 @@ FreeIPCC致力于成为：
 3，视频呼叫中心系统、视频客服系统；
 4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
+## demo暂无，附团队AI Call Center的2025.06.13，Demo链接，enjoy😄：
+1，话务/在线客服chatbot： 链接：http://124.220.48.38:8822/cc 账户：demo123 密码：demo123@Abc
+
+2，工单系统： 链接：http://124.220.48.38:80 账户：demo 密码：123456
+
 ## - 📫 How to reach us 📫:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc

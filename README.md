@@ -1,5 +1,5 @@
 # VidoIPCC 视频呼叫中心
-视频呼叫中心，视频客服中心，video contact center，WebRTC,call center,contact center,video，视频呼叫中心，网页，数字人，虚拟人，Meta,桌面分享，文档分享!!!!!!!!!!!
+视频呼叫中心，视频客服中心，video contact center，WebRTC,call center,contact center,video，视频呼叫中心，网页，数字人，虚拟人，Meta,桌面分享，文档分享!
 
 目前代码在迅速迭代ing
 最终会集成网页视频、数字人等功能！
@@ -21,7 +21,7 @@ FreeIPCC致力于成为：
 3，视频呼叫中心系统、视频客服系统；
 4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## demo暂无，附团队AI Call Center的2025.06.18，Demo链接，enjoy😄：
+## demo暂无，附团队AI Call Center的2025.06.23，Demo链接，enjoy😄：
 1，话务/在线客服chatbot： 链接：http://124.220.48.38:8822/cc 账户：demo123 密码：demo123@Abc
 
 2，工单系统： 链接：http://124.220.48.38:80 账户：demo 密码：123456
